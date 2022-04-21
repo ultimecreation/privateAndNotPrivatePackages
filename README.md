@@ -30,6 +30,11 @@
 // code to create a project
 
 - add the code below to your project/framework (the name has to be "vendor/package" )
+- list your project/framework on packagist
+- then you can use this kind of command line LIKE BELOW
+    => composer create-project ultimecreation/php-mvc:dev-master
+    => composer create-project ultimecreation/php-mvc:1.0.0 OR WHATEVER tag that you will have created
+
 
     {
         "name": "ultimecreation/php-mvc-for-example",
@@ -38,8 +43,3 @@
         "license": "MIT",
         "require": {}
     }
-
-- list your project/framework on packagist
-- then you can use this kind of command line LIKE BELOW
-    => composer create-project ultimecreation/php-mvc:dev-master
-    => composer create-project ultimecreation/php-mvc:1.0.0 OR WHATEVER tag that you will have created
