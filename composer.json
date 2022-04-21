@@ -1,0 +1,18 @@
+{
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/ultimecreation/MittasciencePrivate"
+        }
+    ],
+    
+    "autoload": {
+        "psr-4": {
+            "Moi\\Composer03\\": "src/"
+        }
+    },
+    "require": {
+        "mittascience/test-notprivate": "dev-master",
+        "mittascience/private": "dev-master"
+    }
+}
