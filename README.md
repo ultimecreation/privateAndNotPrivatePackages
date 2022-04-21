@@ -36,10 +36,10 @@
     => composer create-project ultimecreation/php-mvc:1.0.0 OR WHATEVER tag that you will have created
 
 
-    {
-        "name": "ultimecreation/php-mvc-for-example",
-        "description": "A basic mvc implementation for beginners",
-        "type": "project",
-        "license": "MIT",
-        "require": {}
-    }
+        {
+            "name": "ultimecreation/php-mvc-for-example",
+            "description": "A basic mvc implementation for beginners",
+            "type": "project",
+            "license": "MIT",
+            "require": {}
+        }
