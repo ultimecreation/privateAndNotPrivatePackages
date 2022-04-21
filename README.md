@@ -45,8 +45,8 @@
 
 
 - then you can use this kind of command line LIKE BELOW
-    => composer create-project ultimecreation/php-mvc:dev-master
-    => composer create-project ultimecreation/php-mvc:1.0.0 
+    - composer create-project ultimecreation/php-mvc:dev-master
+    - composer create-project ultimecreation/php-mvc:1.0.0 
     
     OR WHATEVER tag that you will have created
 
